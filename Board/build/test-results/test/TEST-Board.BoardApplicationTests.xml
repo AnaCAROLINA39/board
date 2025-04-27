@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Board.BoardApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-04-27T15:39:42.394Z" hostname="9FGNTJ3" time="2.058">
+  <properties/>
+  <testcase name="contextLoads()" classname="Board.BoardApplicationTests" time="2.058"/>
+  <system-out><![CDATA[12:39:40.777 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [Board.BoardApplicationTests]: BoardApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+12:39:41.009 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration Board.BoardApplication for test class Board.BoardApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.4.5)
+
+2025-04-27T12:39:41.683-03:00  INFO 24272 --- [Board] [    Test worker] Board.BoardApplicationTests              : Starting BoardApplicationTests using Java 20.0.2 with PID 24272 (started by E_ACDL in C:\Users\e_acdl\Desktop\Board)
+2025-04-27T12:39:41.683-03:00  INFO 24272 --- [Board] [    Test worker] Board.BoardApplicationTests              : No active profile set, falling back to 1 default profile: "default"
+2025-04-27T12:39:42.397-03:00  INFO 24272 --- [Board] [    Test worker] Board.BoardApplicationTests              : Started BoardApplicationTests in 1.091 seconds (process running for 3.306)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
